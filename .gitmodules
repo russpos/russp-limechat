@@ -1,0 +1,3 @@
+[submodule "LimeChatEmoji"]
+	path = LimeChatEmoji
+	url = git@github.com:russpos/LimeChatEmoji.git
